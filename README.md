@@ -9,15 +9,11 @@ The sample is based on Angular 2 Beta 1.
 Simply clone the project or download and extract the .zip to get started. Here are a few
 screenshots from the app:
 
-<img width="500" src="src/images/screenshots/cards.png" border="0" />
+![](src/images/screenshots/cards.png)
 
-<br />
+![](src/images/screenshots/grid.png)
 
-<img width="500" src="src/images/screenshots/grid.png" border="0" />
-
-<br />
-
-<img width="500" src="src/images/screenshots/orders.png" border="0" />
+![](src/images/screenshots/orders.png)
 
 ## Angular 2 Concepts Covered
 
